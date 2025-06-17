@@ -1,0 +1,1 @@
+# licencas-wpp-bot
